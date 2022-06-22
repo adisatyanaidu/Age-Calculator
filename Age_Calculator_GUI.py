@@ -7,7 +7,7 @@ from tkinter import messagebox
 #import the Themed tk module
 from tkinter import ttk
 
-#import the time date module
+#import the time date module1
 from datetime import date
 
 # Function for clearing the   
